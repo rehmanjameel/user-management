@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.UserManagement">
         <activity
+            android:name=".activities.ProfileActivity"
+            android:exported="false" />
+        <activity
             android:name=".activities.UpdateUserActivity"
             android:exported="false" />
         <activity
