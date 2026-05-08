@@ -113,7 +113,7 @@ public class AddUserActivity extends AppCompatActivity {
             binding.emailTIET.setError("Field Required");
 
         } else if (radioButtonTxt == null) {
-            Toast.makeText(this, "Please select the gender", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Select the gender", Toast.LENGTH_SHORT).show();
 
         } else {
 
