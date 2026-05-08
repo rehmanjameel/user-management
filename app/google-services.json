@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "531128428694",
+    "firebase_url": "https://testproject-596b4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "testproject-596b4",
+    "storage_bucket": "testproject-596b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531128428694:android:8252c04ce132329d7efab7",
+        "android_client_info": {
+          "package_name": "com.arconn.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1xX2uQJjukYEgBYtizz6NVhVVxMKMjks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531128428694:android:fca6b665a2b453e87efab7",
+        "android_client_info": {
+          "package_name": "com.comic.usermanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1xX2uQJjukYEgBYtizz6NVhVVxMKMjks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531128428694:android:828650fc396fec6f7efab7",
+        "android_client_info": {
+          "package_name": "com.example.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1xX2uQJjukYEgBYtizz6NVhVVxMKMjks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
